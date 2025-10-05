@@ -51,7 +51,7 @@ Android end-to-end encrypted messaging using the Signal Protocol's Double Ratche
 - **Session persistence**: Sessions are saved locally - no re-scanning needed unless session is deleted
 - **Case-insensitive contacts**: Contact names are treated as case-insensitive
 
-## Keyboard Integration (Planned)
+## Keyboard Integration
 
 This standalone app was built with Android Studio as a foundation for keyboard integration. A forked version with HeliBoard integration allows:
 
