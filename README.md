@@ -1,4 +1,4 @@
-# CryptoMiddleman
+# 👾 CryptoMiddleware 👾
 
 End-to-end encrypted messaging using the Signal Protocol's Double Ratchet algorithm. Exchange encryption keys via QR codes and communicate securely.
 
